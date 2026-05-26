@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 
-![App Mockup](https://files.catbox.moe/rg3h1a.png)
+![App Mockup](https://files.catbox.moe/mfzjrf.png)
 
 A comprehensive financial dashboard and stock market analysis tool built in Python and deployed via Streamlit.
 
